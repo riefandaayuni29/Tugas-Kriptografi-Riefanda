@@ -1,0 +1,5 @@
+1. jika menggunakan modulo maka index abjad dari alphabet akan dibatasi sebanyak 26, jadi jika suatu huruf bergeser lebih dari index z atau index ke 26 
+   maka akan mengulang kembali ke index awal   
+2. jika tidak menggunakan modulo, alphabet dari index abjad tidak akan dibatasi, jadi jika suatu huruf bergeser lebih dari index z maka akan terjadi eror
+Kesimpulannya adalah jika menggunakan modulo maka index abjadnya dibatasi dan akan mengulangi ke index awal, dan jika tidak menggunakan modulo maka index 
+abjadnya tidak dibatasi dan tidak bisa lagi kembali ke index awal.
